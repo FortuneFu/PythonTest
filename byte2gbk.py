@@ -4,5 +4,5 @@
 import binascii
 
 if __name__ == '__main__':
-	hex_str = raw_input("hex:")
-	print "\n",(binascii.a2b_hex(hex_str)).decode('GBK')
+    hex_str = raw_input("hex:")
+    print "\n", (binascii.a2b_hex(hex_str)).decode('GBK')

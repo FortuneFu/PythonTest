@@ -1,0 +1,866 @@
+2015/04/07 10:30:12 config.json not found, try config file /Users/fortune/Downloads/tools/shadowsocks/config.json
+2015/04/07 10:30:12 available remote server pb1.5bird.com:13757
+2015/04/07 10:30:12 starting local socks5 server at :7071 ...
+2015/04/07 14:35:15 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/07 14:35:20 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/07 14:35:25 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/07 14:35:38 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/07 14:35:42 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/07 14:35:42 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/07 14:35:42 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/07 14:35:42 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/07 14:35:43 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: network is unreachable
+2015/04/07 14:35:44 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/07 14:35:44 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/07 14:35:44 error connecting to shadowsocks server: dial tcp 0.0.0.0:13757: connection refused
+2015/04/07 14:36:06 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/07 14:36:35 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/07 14:36:37 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/07 17:38:32 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/07 17:38:59 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/07 17:39:08 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/07 17:39:08 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/07 17:39:08 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/07 17:39:08 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/07 17:39:11 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/07 17:39:11 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/07 17:39:11 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/07 17:39:11 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/07 17:39:12 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 08:53:14 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 08:53:14 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 08:53:14 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 08:53:14 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 08:53:15 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 08:53:15 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 08:53:15 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 08:53:16 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 08:53:16 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 08:53:16 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 08:53:17 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 08:53:18 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 08:53:18 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 08:53:18 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 08:53:23 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 08:53:23 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 08:53:23 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 08:53:31 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 08:53:31 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 08:53:31 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 08:53:31 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 08:53:31 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:03:58 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:03:58 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:03:58 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:03:58 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:03:58 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:03:58 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:03:58 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:04:01 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:04:01 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:04:01 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:53:52 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/08 09:53:58 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/08 09:53:58 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/08 09:53:58 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/08 09:54:06 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:54:06 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:54:06 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:54:06 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:54:06 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:54:06 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:54:06 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:54:06 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:54:06 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:54:06 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:54:06 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:54:06 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:54:06 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:54:06 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:54:06 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:54:06 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:54:06 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:54:06 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:54:06 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:54:06 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:54:06 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:54:06 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:54:06 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:54:06 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:54:06 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:54:06 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:54:06 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:54:06 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:54:06 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:54:06 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:54:06 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:54:06 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:54:06 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:54:06 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:54:06 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:54:06 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:54:06 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:54:08 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:54:08 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:54:08 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:54:09 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:54:09 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:54:09 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:54:09 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 09:54:20 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/08 09:54:26 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/08 11:15:01 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 11:15:01 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 11:15:01 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 11:15:01 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 11:15:03 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 11:15:03 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 11:15:03 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 11:15:04 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 11:15:04 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 11:15:04 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 11:15:05 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 11:15:29 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 11:15:29 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 11:15:29 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 11:15:42 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 11:15:42 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 11:15:42 socks handshake: EOF
+2015/04/08 13:01:20 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 13:01:20 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 13:01:20 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 13:01:20 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 13:01:20 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 13:01:20 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 13:01:20 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 13:01:20 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 13:01:20 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 13:01:20 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 13:01:20 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 13:01:20 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 13:01:20 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 13:01:23 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 13:01:23 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 13:01:23 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 16:01:23 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 16:01:23 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 16:01:23 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 16:01:23 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 16:01:23 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 16:01:23 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 16:01:23 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 16:01:26 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 16:01:26 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 16:01:26 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 16:55:01 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/08 16:55:14 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/08 16:55:22 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/08 16:55:22 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/08 16:55:25 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/08 16:55:27 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/08 16:55:27 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/08 16:55:27 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/08 16:55:27 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/08 16:55:27 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/08 16:55:27 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/08 16:55:29 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/08 16:55:29 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/08 16:55:29 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/08 16:55:29 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/08 16:55:29 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/08 16:55:29 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/08 16:55:29 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/08 16:55:29 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/08 16:55:29 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/08 16:55:29 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/08 16:55:29 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/08 16:55:29 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/08 16:55:29 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/08 16:55:29 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/08 16:55:29 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/08 16:55:29 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/08 16:55:29 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/08 16:55:29 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/08 16:55:29 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/08 16:55:29 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/08 16:55:29 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/08 16:55:29 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/08 16:55:29 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/08 16:55:29 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/08 16:55:29 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/08 16:55:30 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/08 20:39:05 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 20:39:05 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 20:39:05 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 20:39:05 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 20:39:05 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 20:39:05 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/08 20:39:05 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/09 13:31:31 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/09 13:31:31 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/09 13:31:31 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/09 13:31:31 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/09 13:31:31 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/09 13:31:31 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/09 13:31:31 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/09 13:31:31 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/09 13:31:31 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/09 13:31:31 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/09 13:31:31 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/09 13:31:31 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/09 13:31:31 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/09 13:31:31 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/09 13:31:31 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/09 13:31:31 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/09 13:31:31 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/09 13:31:31 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/09 13:31:33 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/09 13:31:33 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/09 13:31:33 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/09 13:31:33 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/09 13:31:33 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/09 13:31:33 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/09 15:40:11 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 15:40:11 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 15:40:15 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 15:40:19 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 15:40:23 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 15:40:27 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 15:40:31 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 15:40:42 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 15:42:18 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 15:42:41 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 15:44:18 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 15:44:57 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 15:49:16 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 15:49:18 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 15:49:18 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 15:49:26 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 15:51:09 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 15:52:09 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 15:53:18 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 15:53:22 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 15:54:44 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 15:56:28 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 15:56:32 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 15:57:19 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 15:58:29 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 15:59:33 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:00:46 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:01:04 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:03:26 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:06:31 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:07:03 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:07:22 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:10:06 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:13:29 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:14:19 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:14:21 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:15:42 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:17:26 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:17:32 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:17:38 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:19:16 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:20:51 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:22:43 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:22:43 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:22:43 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:22:43 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:24:18 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:25:07 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:25:51 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:25:51 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:26:21 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:26:21 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:26:51 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:26:56 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:27:57 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:28:03 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:29:43 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:32:03 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:36:22 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:36:53 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:37:21 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:37:24 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:37:26 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:37:51 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:37:52 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:37:54 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:37:58 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:37:58 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:38:21 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:38:26 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:38:27 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:38:30 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:38:32 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:38:36 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:38:51 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:39:07 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:39:13 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:39:21 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:40:14 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:48:56 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:49:02 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:49:59 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:51:30 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:52:01 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:52:31 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:52:36 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:59:26 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:59:32 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 16:59:38 config.json not found, try config file /Users/fortune/Downloads/tools/shadowsocks/config.json
+2015/04/09 16:59:38 available remote server pb1.5bird.com:13757
+2015/04/09 16:59:38 starting local socks5 server at :7071 ...
+2015/04/09 17:00:54 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 17:00:57 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 17:01:28 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/09 17:01:28 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/09 17:01:28 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/09 17:01:28 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/09 17:01:29 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 17:01:31 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/09 17:01:31 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/09 17:01:31 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/09 17:01:32 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/09 17:01:34 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 17:01:35 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 17:01:37 socks handshake: EOF
+2015/04/09 17:01:39 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:01:50 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:01:52 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:01:53 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:02:02 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/09 17:02:03 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:02:03 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:02:03 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:02:08 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:02:08 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:02:09 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:02:09 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:02:09 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:02:10 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:02:10 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:02:18 config.json not found, try config file /Users/fortune/Downloads/tools/shadowsocks/config.json
+2015/04/09 17:02:18 available remote server pb1.5bird.com:13757
+2015/04/09 17:02:18 starting local socks5 server at :7071 ...
+2015/04/09 17:02:19 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:02:19 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:02:19 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:02:33 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:02:33 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:02:34 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:02:34 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:02:35 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:02:35 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:02:49 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:02:49 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:02:50 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:03:10 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:03:10 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:03:10 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:03:53 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:03:53 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:03:53 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:04:46 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:04:46 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:04:47 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:05:49 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:05:49 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:05:49 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:06:06 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:06:06 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:06:06 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:06:08 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:06:08 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:06:08 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:06:10 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:06:10 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:06:11 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:06:16 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:06:16 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:06:16 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:06:25 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:06:25 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:06:25 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:06:41 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:06:41 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:06:41 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:07:04 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:07:04 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:07:04 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:07:04 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:07:05 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:07:05 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:07:06 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:07:06 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:07:06 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:07:27 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:07:27 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:07:27 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:07:28 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:07:28 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:07:28 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:08:35 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:08:35 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:08:35 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:08:41 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:08:41 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:08:41 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:10:22 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:10:23 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:10:23 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:11:04 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:11:04 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:11:04 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:11:39 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:12:35 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:12:35 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:12:35 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:14:32 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:14:33 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:14:33 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:14:35 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:14:35 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:14:36 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:15:11 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:15:11 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:15:12 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:15:22 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:15:22 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:15:22 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:15:24 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:15:24 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:15:24 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:15:27 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:15:27 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:15:27 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:15:31 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:15:31 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:15:31 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:15:40 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:15:41 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:15:41 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:15:58 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:15:58 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:15:58 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:18:20 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:18:20 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:18:20 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:18:41 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:18:41 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:18:42 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:18:43 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:18:45 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:18:45 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:18:46 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:18:46 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:18:46 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:18:47 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:20:12 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:20:12 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:21:42 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:22:04 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:22:04 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:22:04 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:26:32 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:26:32 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:26:33 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:28:43 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:28:43 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:28:43 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:28:43 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:28:44 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:28:44 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:28:45 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:28:45 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:28:45 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:29:10 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:29:10 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:29:11 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:29:22 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:29:22 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:29:22 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:31:42 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:31:54 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:31:54 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 17:31:54 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 20:33:25 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/09 20:33:25 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/09 20:33:43 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 20:33:43 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/09 20:33:44 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: connection refused
+2015/04/10 09:01:10 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/10 09:01:10 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/10 09:01:10 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/10 10:07:46 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/10 10:07:51 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/10 10:07:51 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/10 10:07:51 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/10 10:07:51 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/10 10:07:53 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/10 10:07:53 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/10 10:07:53 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/10 10:07:54 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/10 10:23:33 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/10 10:23:43 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/10 10:23:52 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/10 10:23:54 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/10 10:23:55 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/10 10:24:15 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/10 10:24:15 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/10 10:24:15 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/10 10:24:15 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/10 10:24:15 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/10 10:24:15 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/10 10:24:15 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/10 10:24:15 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/10 10:24:15 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/10 10:24:15 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/10 10:24:15 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/10 10:24:15 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/10 10:24:15 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/10 10:24:15 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/10 10:24:15 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/10 10:24:15 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/10 10:24:17 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/10 10:24:17 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/10 10:24:17 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/10 10:24:17 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/10 10:24:17 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/10 10:24:17 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/10 10:25:14 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/10 10:25:17 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/10 10:25:21 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/10 20:52:37 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/10 20:52:37 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/10 20:52:37 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/10 20:52:37 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 08:58:28 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 08:58:28 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 08:58:28 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 08:58:28 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 08:58:28 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 08:58:28 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 08:58:28 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 08:58:28 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 08:58:28 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 08:58:29 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 08:58:30 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 08:58:30 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 08:58:30 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 08:58:32 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 08:58:32 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 08:58:32 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 08:58:35 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 08:58:35 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 08:58:35 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 11:54:48 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/13 11:55:19 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/13 11:55:32 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 11:55:33 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 11:55:35 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 11:55:44 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 11:55:49 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/13 11:55:57 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/13 11:56:05 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 11:56:14 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 11:56:14 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 11:56:14 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 11:56:14 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 11:56:14 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 11:56:14 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 11:56:14 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 11:56:14 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 11:56:14 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 11:56:14 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 11:56:16 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 11:56:16 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 11:56:16 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 11:56:17 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 11:56:18 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 11:56:18 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 11:56:18 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 11:56:19 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 11:56:19 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 11:56:19 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 11:56:22 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 11:56:22 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 11:56:22 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 11:56:22 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 11:56:26 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 11:56:26 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 11:56:26 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 11:56:27 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 11:56:27 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 11:56:27 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 11:56:28 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 11:56:28 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 11:56:28 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 11:56:29 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 16:22:18 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/13 16:22:32 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/13 16:22:41 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/13 16:22:44 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/13 16:22:46 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/13 16:23:02 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/13 16:23:18 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/13 16:23:35 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/13 16:23:35 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/13 16:23:38 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/13 16:23:38 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/13 16:23:40 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/13 16:23:41 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/13 16:23:45 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/13 16:24:02 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/13 16:24:04 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/13 16:24:05 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/13 16:24:06 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/13 16:24:08 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/13 16:24:11 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/13 16:24:11 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/13 16:24:12 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/13 16:24:14 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/13 16:24:16 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/13 16:24:38 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/13 16:25:02 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/13 16:25:02 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/13 16:25:04 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/13 16:25:04 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/13 16:25:07 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/13 16:25:07 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/13 16:25:08 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/13 16:25:08 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/13 16:25:09 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/13 16:25:09 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/13 16:25:12 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/13 16:25:14 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/13 16:25:17 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/13 16:25:18 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/13 16:25:37 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/13 16:25:37 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/13 16:25:39 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/13 16:25:43 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/13 16:25:43 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/13 16:26:07 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/13 16:26:09 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/13 16:26:10 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/13 16:26:10 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/13 16:26:11 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/13 16:26:12 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/13 16:26:12 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/13 16:26:13 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/13 16:26:14 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/13 16:26:14 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/13 16:26:15 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/13 16:26:15 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/13 16:26:15 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/13 16:26:17 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/13 16:26:18 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: network is unreachable
+2015/04/13 16:26:19 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: network is unreachable
+2015/04/13 16:26:19 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: network is unreachable
+2015/04/13 16:26:20 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 16:26:20 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 16:26:20 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 16:26:20 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 16:26:20 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: network is unreachable
+2015/04/13 16:26:21 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: network is unreachable
+2015/04/13 16:26:23 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 16:26:23 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 16:26:23 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 16:26:29 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/13 16:26:35 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/13 16:26:35 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/13 16:26:37 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/13 16:26:38 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/13 16:26:45 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/13 16:27:09 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/13 16:27:10 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/13 16:27:12 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/14 08:43:31 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 08:43:31 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 08:43:31 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 08:43:31 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 08:43:31 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 08:43:31 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 08:43:31 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 08:43:31 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 08:43:31 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 08:43:31 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 08:43:31 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 08:43:31 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 08:43:31 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 08:43:31 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 08:43:31 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 08:43:32 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 08:43:32 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 08:43:32 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 08:43:33 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 08:43:33 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 08:43:33 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 08:43:34 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 08:43:34 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 08:43:34 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 09:00:08 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 09:00:08 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 09:00:08 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 09:00:08 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 09:00:10 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 09:00:10 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 09:00:10 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 09:00:11 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 09:00:11 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 09:00:11 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 09:00:11 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 09:06:44 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/14 09:06:49 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/14 09:06:54 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/14 09:07:13 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/14 09:07:14 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/14 09:07:18 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/14 09:07:23 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/14 09:07:29 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/14 09:08:48 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/14 09:08:48 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/14 13:27:24 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 13:27:24 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 13:27:24 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 13:27:24 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 13:27:24 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 13:27:24 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 13:27:24 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 13:27:24 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 13:27:24 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 13:27:24 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 13:27:24 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 13:27:24 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 13:27:24 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 13:27:24 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 13:27:24 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 13:27:24 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 13:27:24 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 13:27:24 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 13:27:24 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 13:27:24 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 13:27:24 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 13:27:24 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 13:27:24 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 13:27:24 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 13:27:24 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 13:27:26 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 13:27:26 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 13:27:26 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 13:27:27 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 14:15:33 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/14 14:16:00 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/14 14:16:05 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/14 14:16:10 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/14 14:16:18 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: no route to host
+2015/04/14 14:16:20 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 14:16:20 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 14:16:20 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 14:16:20 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 14:16:21 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: network is unreachable
+2015/04/14 14:16:23 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 14:16:23 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 14:16:23 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 14:16:24 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 15:46:48 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 15:46:48 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 15:46:48 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 15:46:48 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 15:46:48 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 15:46:48 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 15:46:48 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 15:46:56 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 15:46:56 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 15:46:56 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 15:46:56 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 15:46:58 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 15:46:58 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 15:46:58 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 15:46:59 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 15:46:59 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 15:46:59 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 15:46:59 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 15:46:59 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 15:46:59 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 15:46:59 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 15:46:59 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 15:46:59 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 15:46:59 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 15:46:59 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 15:46:59 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 15:47:00 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 15:47:00 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 15:47:00 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 15:47:03 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 15:47:03 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 15:47:03 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 15:47:05 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 15:47:05 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 15:47:05 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 15:47:13 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 15:47:13 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 15:47:13 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 15:47:17 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 15:47:17 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 15:47:17 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 16:48:52 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/14 16:49:17 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/14 16:49:19 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/14 16:49:22 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/14 16:50:08 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: network is unreachable
+2015/04/14 16:50:10 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 16:50:10 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 16:50:10 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 16:50:10 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 16:50:13 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 16:50:13 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 16:50:13 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 16:50:13 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 16:50:14 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 16:50:14 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 16:50:14 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 16:50:19 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 16:50:19 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 16:50:19 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 16:50:23 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 16:50:23 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 16:50:23 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 16:50:25 error connecting to shadowsocks server: dial tcp 106.186.22.132:13757: operation timed out
+2015/04/14 20:38:14 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 20:38:14 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 20:38:14 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/14 20:38:14 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/15 08:38:02 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/15 08:38:02 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/15 08:38:02 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/15 08:38:02 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/15 08:38:02 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/15 08:38:02 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/15 08:38:02 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/15 08:38:02 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/15 08:38:04 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/15 08:38:04 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/15 08:38:04 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/15 08:38:05 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/15 08:38:05 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/15 08:38:05 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/15 08:38:05 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/15 08:38:05 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/15 08:38:05 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/15 08:38:06 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/15 08:38:06 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/15 08:38:06 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/15 08:38:08 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/15 08:38:08 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/15 08:38:08 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/15 09:08:31 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/15 09:08:31 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/15 09:08:31 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/15 09:08:31 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/15 09:08:34 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/15 09:08:34 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/15 09:08:34 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/15 09:08:34 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
+2015/04/15 09:08:52 error connecting to shadowsocks server: lookup pb1.5bird.com: no such host
