@@ -8,15 +8,10 @@ import binascii
 args = sys.argv
 
 s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
-<<<<<<< HEAD
-data = input("hex:")
-print('send data', data)
-hexdata = binascii.a2b_hex(data)
-s.sendto(hexdata, ('127.0.0.1', 7002))
-=======
-data = raw_input("hex:")
+data = raw_input("str:")
 print'send data', data
 hexdata = binascii.a2b_hex(data)
-s.sendto(hexdata, ('127.0.0.1', 9999))
->>>>>>> fca1cbfea3071028becfac9593321112c371f7a9
+s.sendto(hexdata, ('192.168.12.114', 7002))
+#s.sendto(hexdata, ('203.194.149.171', 9919))
+#s.sendto(hexdata, ('203.194.149.79', 7919))
 s.close()
